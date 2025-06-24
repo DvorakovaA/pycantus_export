@@ -13,6 +13,7 @@ At the heart of the library is the Cantus Database and Cantus Index data model. 
 1. clone the repository 
     
     ```git clone https://github.com/dact-chant/PyCantus```
+    
 2. go to the root directory of the project
 3. run the following command 
 
